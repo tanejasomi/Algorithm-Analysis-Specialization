@@ -4,11 +4,20 @@ import java.util.Arrays;
 
 /* Divide the input array into equal halves and
 Sort the left half, sort the right half and merge them recursively.
+Time complexity: nlog(n)
+
+@mergeSort: method to actual function to perform merge sort.
+    int [] array: Input array to sorted
 @mergeSort: divides the input array into two halves recursively call merge function.
     int[]array: Input array to be merged
     int[]temp: same variable used every time to merge (space efficient)
     int leftStart: starting point of sub array
     int rightEnd: ending point of sub array
+@merge: compares values from left and right array and insert in array temp in sorted
+    int [] array: input array
+    int [] temp: single temp array for space efficiency
+    int leftStart: starting index of input array
+    int rightEnd: end index of input array
 * */
 public class mergeSortAlgorithm {
 

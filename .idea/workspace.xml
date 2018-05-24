@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72546a79-55d7-4d87-b9f4-1c5ccdb4500a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/GFG.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/RabinKarpAlgorithm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dinningPhilosphersProblem/DinningPhilospherSolution$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dinningPhilosphersProblem/DinningPhilospherSolution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dinningPhilosphersProblem/Fork.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dinningPhilosphersProblem/Philosopher.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/librarySemphoreImplementation/Book.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/librarySemphoreImplementation/Library.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/librarySemphoreImplementation/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/librarySemphoreImplementation/Reader.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/operatingSystem/Car.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/operatingSystem/Ferry.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/operatingSystem/MainLand.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/operatingSystem/SemaphoreDemo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/patternSearching/SuffixTrieNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/patternSearching/Suffix_tree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/searchAlgorithms/mergeSortAlgorithm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/operatingSystem.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GFG.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/RabinKarpAlgorithm.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dinningPhilosphersProblem/DinningPhilospherSolution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dinningPhilosphersProblem/Fork.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dinningPhilosphersProblem/Philosopher.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/librarySemphoreImplementation/Book.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/librarySemphoreImplementation/Library.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/librarySemphoreImplementation/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/librarySemphoreImplementation/Reader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/operatingSystem/Car.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/operatingSystem/Ferry.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/operatingSystem/MainLand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/operatingSystem/SemaphoreDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patternSearching/SuffixTrieNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patternSearching/Suffix_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/searchAlgorithms/mergeSortAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/searchAlgorithms/mergeSortAlgorithm.java" afterPath="$PROJECT_DIR$/src/searchAlgorithms/mergeSortAlgorithm.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/operatingSystem/Ferry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -90,10 +48,13 @@
       <file leaf-file-name="Fork.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/dinningPhilosphersProblem/Fork.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#911#0" expanded="true" />
+                <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1526157957000" expanded="true" signature="264:341" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="407:449" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="528:908" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -105,7 +66,12 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#1933#0" expanded="true" />
+                <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1526157957000" expanded="false" signature="308:319" ph=" { " />
+                <marker date="1526157957000" expanded="false" signature="347:353" ph=" }" />
+                <marker date="1526157957000" expanded="true" signature="428:642" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="694:1626" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="1680:1930" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,32 +80,46 @@
       <file leaf-file-name="DinningPhilospherSolution.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/dinningPhilosphersProblem/DinningPhilospherSolution.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="30">
+              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding>
-                <element signature="e#0#1912#0" expanded="true" />
+                <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1526157957000" expanded="true" signature="356:363" ph="{}" />
+                <marker date="1526157957000" expanded="true" signature="408:540" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="565:1220" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="1260:1909" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="1371:1853" ph="{...}" />
+                <marker date="1526157957000" expanded="true" signature="1407:1839" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RabinKarpAlgorithm.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/RabinKarpAlgorithm.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#1349#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mergeSortAlgorithm.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mergeSortAlgorithm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/searchAlgorithms/mergeSortAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayInversionCount.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/divideAndConquer/ArrayInversionCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KaratsubaMultiplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mathsAlgorithms/KaratsubaMultiplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -170,7 +150,9 @@
         <option value="$PROJECT_DIR$/src/patternSearching/SuffixTrieNode.java" />
         <option value="$PROJECT_DIR$/src/patternSearching/Suffix_tree.java" />
         <option value="$PROJECT_DIR$/src/searchAlgorithms/mergeSort.java" />
+        <option value="$PROJECT_DIR$/src/mathsAlgorithms/KaratsubaMultiplication.java" />
         <option value="$PROJECT_DIR$/src/searchAlgorithms/mergeSortAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/divideAndConquer/ArrayInversionCount.java" />
       </list>
     </option>
   </component>
@@ -180,7 +162,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="515" />
     <option name="y" value="23" />
     <option name="width" value="925" />
@@ -202,7 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,15 +201,21 @@
               <item name="AlgorithmAnalysisSpecialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmAnalysisSpecialization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="divideAndConquer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmAnalysisSpecialization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmAnalysisSpecialization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="searchAlgorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,13 +240,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mergeSortAlgorithm">
+  <component name="RunManager" selected="Application.ArrayInversionCount">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="ArrayInversionCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="divideAndConquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="divideAndConquer.ArrayInversionCount" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="operatingSystem" />
+      <envs />
     </configuration>
     <configuration name="DinningPhilospherSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -391,16 +398,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.MainLand" />
       <item index="1" class="java.lang.String" itemvalue="Application.DinningPhilospherSolution" />
       <item index="2" class="java.lang.String" itemvalue="Application.mergeSortAlgorithm" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ArrayInversionCount" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.mergeSortAlgorithm" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DinningPhilospherSolution" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MainLand" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.ArrayInversionCount" />
+        <item index="1" class="java.lang.String" itemvalue="Application.mergeSortAlgorithm" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DinningPhilospherSolution" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainLand" />
       </list>
     </recent_temporary>
   </component>
@@ -423,37 +432,38 @@
       <workItem from="1521663068477" duration="361000" />
       <workItem from="1526157220885" duration="8000" />
       <workItem from="1526157359764" duration="242000" />
-      <workItem from="1526157804512" duration="4038000" />
+      <workItem from="1526157804512" duration="5523000" />
+      <workItem from="1526954856799" duration="9014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6094000" />
+    <option name="totallyTimeSpent" value="16593000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="515" y="23" width="925" height="797" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39027983" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22263682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15463917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25870648" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27736318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22083806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1423462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -477,6 +487,66 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bin/dinningPhilosphersProblem/Philosopher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526157957000" expanded="false" signature="308:319" ph=" { " />
+            <marker date="1526157957000" expanded="false" signature="347:353" ph=" }" />
+            <marker date="1526157957000" expanded="true" signature="428:642" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="694:1626" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1680:1930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/dinningPhilosphersProblem/DinningPhilospherSolution.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526157957000" expanded="true" signature="356:363" ph="{}" />
+            <marker date="1526157957000" expanded="true" signature="408:540" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="565:1220" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1260:1909" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1371:1853" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1407:1839" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/RabinKarpAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526157957000" expanded="true" signature="210:217" ph="{}" />
+            <marker date="1526157957000" expanded="true" signature="273:1175" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1220:1346" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mathsAlgorithms/KaratsubaMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/searchAlgorithms/mergeSortAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="82" lean-forward="false" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/operatingSystem/MainLand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -572,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,17 +798,20 @@
     <entry file="file://$PROJECT_DIR$/src/operatingSystem/Ferry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/dinningPhilosphersProblem/Fork.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#911#0" expanded="true" />
+            <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526157957000" expanded="true" signature="264:341" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="407:449" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="528:908" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -750,35 +821,65 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1933#0" expanded="true" />
+            <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526157957000" expanded="false" signature="308:319" ph=" { " />
+            <marker date="1526157957000" expanded="false" signature="347:353" ph=" }" />
+            <marker date="1526157957000" expanded="true" signature="428:642" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="694:1626" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1680:1930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mathsAlgorithms/KaratsubaMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/RabinKarpAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526157957000" expanded="true" signature="210:217" ph="{}" />
+            <marker date="1526157957000" expanded="true" signature="273:1175" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1220:1346" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/dinningPhilosphersProblem/DinningPhilospherSolution.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="30">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
-            <element signature="e#0#1912#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/RabinKarpAlgorithm.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#1349#0" expanded="true" />
+            <marker date="1526157957000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526157957000" expanded="true" signature="356:363" ph="{}" />
+            <marker date="1526157957000" expanded="true" signature="408:540" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="565:1220" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1260:1909" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1371:1853" ph="{...}" />
+            <marker date="1526157957000" expanded="true" signature="1407:1839" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/searchAlgorithms/mergeSortAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/divideAndConquer/ArrayInversionCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding />
         </state>
       </provider>
