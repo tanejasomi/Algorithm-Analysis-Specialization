@@ -1,6 +1,6 @@
 package divideAndConquer;
 import java.util.Scanner;
-/*** Incomplete implementation******************************
+/*** Testing pending for implementation******************************
  * STRASSEN MATRIX MULTIPLICATION: Divide and conquer implementation
  * Step 1: Recursively compute 7 necessary products
  * Step 2: Do addition and substraction
