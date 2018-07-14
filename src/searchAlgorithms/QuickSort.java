@@ -21,13 +21,15 @@ public class QuickSort {
         }
         int p = choosePivot(l,r);
         int index = partition(array, l,r,p);
-        qsort(array, Math.min(l,index),Math.max(l,index));
-        qsort(array,Math.min(index+1,r),Math.max(index+1,r));
+        //qsort(array, Math.min(l,index),Math.max(l,index));
+        qsort(array, l,index);
+        //qsort(array,Math.min(index+1,r),Math.max(index+1,r));
+        qsort(array,index+1,r);
 
     }
     public static int choosePivot(int l,int r){
         /*Random rand = new Random();
-        return rand.nextInt(r+1)+l;*/
+        return rand.nextInt(r-l+1)+l;*/
 
         return(l+r)/2;
 
@@ -41,7 +43,7 @@ public class QuickSort {
         for(int j = l+1; j<=r;j++){
             if(array[j]< pivot){
                 if(i!=j)
-                swap(array,i+1,j);
+                swap(array,i,j);
                 i++;
             }
         }
@@ -58,7 +60,7 @@ public class QuickSort {
     }
 
     public static void main(String [] args){
-        int [] array = {34, 1, 9000, 5, 9 , 10, 67,343};
+        int [] array = {0,34, 1, 9000, 5, 9 , 989, 67,343};
         System.out.println("Input Array: "+ Arrays.toString(array));
         qsort(array);
         System.out.println("Output Array: "+Arrays.toString(array));
