@@ -62,7 +62,7 @@ public class mergeSortAlgorithm {
 
     }
     public static void main(String [] args){
-        int [] array = {34, 1, 9000, 5, 0 , 10, 67,343};
+        int [] array = {34, 1, 9000, 5, 0 , 100, 67,343};
         System.out.println("Input Array: "+Arrays.toString(array));
         mergeSort(array);
         System.out.println("Output Array: "+Arrays.toString(array));
