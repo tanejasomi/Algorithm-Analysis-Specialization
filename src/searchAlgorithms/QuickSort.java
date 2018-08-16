@@ -60,7 +60,7 @@ public class QuickSort {
     }
 
     public static void main(String [] args){
-        int [] array = {0,34, 1, 9000, 5, 9 , 989, 67,343};
+        int [] array = {0,34, 1, 9000, 50, 9 , 989, 67,343};
         System.out.println("Input Array: "+ Arrays.toString(array));
         qsort(array);
         System.out.println("Output Array: "+Arrays.toString(array));
